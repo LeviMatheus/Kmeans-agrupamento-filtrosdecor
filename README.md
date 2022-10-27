@@ -1,6 +1,6 @@
 <h1>Kmeans-agrupamento-filtrosdecor</h1>
 
-!(Python)[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white]
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <h4>Algoritmo K-means utilizando técnicas de Processamento de imagem aplicado sobre a imagem da Lena</h4>
 <h5>Este código apresenta o histograma da imagem infomada</h5>
